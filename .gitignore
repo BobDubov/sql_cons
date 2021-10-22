@@ -1,8 +1,6 @@
 /venv/
 config.py
 20*.CSV
-CONS*.USR
-CONS*.XML
 sql_срез последних
 usr_copy_unpack.bat
 /USR/

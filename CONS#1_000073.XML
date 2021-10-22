@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<user_info>
+	<format_version>14</format_version>
+	<ric>73</ric>
+	<res_version>4021.00.31.535779</res_version>
+	<cons_exe_version>4020.00.1.450438</cons_exe_version>
+	<kd_version>3.21.24.5722250b</kd_version>
+	<complect>mono</complect>
+	<tech_info>
+		<Processors>
+			<Name>Intel(R) Xeon(TM) CPU 2.80GHz</Name>
+			<Frequency>2.79 GHz</Frequency>
+			<AllCore>4</AllCore>
+		</Processors>
+		<RAM>8191</RAM>
+		<OS>
+			<Name>Windows Server 2008 R2 Server Standard 64-bit Service Pack 1</Name>
+			<Version
+				Major="6"
+				Minor="1"
+			/>
+			<Build>7601</Build>
+			<PlatformID>2</PlatformID>
+			<Edition>Server Standard</Edition>
+			<Capacity>x64</Capacity>
+			<LangUI>Russian</LangUI>
+			<CompatibilityMode>Не установлен</CompatibilityMode>
+		</OS>
+		<BootDisk>
+			<Name>C</Name>
+			<FreeSpace>36743</FreeSpace>
+		</BootDisk>
+		<ConsTmpDir>
+			<Path>C:\Users\alexa\AppData\Local\Temp\</Path>
+			<FreeSpace>36743</FreeSpace>
+		</ConsTmpDir>
+		<Office>Не определено</Office>
+		<Browser>Internet Explorer 11.00.9600.16428</Browser>
+		<MailAgent>Не определено</MailAgent>
+		<Rights>Administrator</Rights>
+		<DiskFreeSpace>36743</DiskFreeSpace>
+		<FileSystem>NTFS</FileSystem>
+		<Users
+			OD="0"
+			UD="68"
+			TS="0"
+			VM="0"
+		/>
+		<wine exist="no" version="-"/>
+		<nowin>
+			<name>-</name>
+			<extend>-</extend>
+			<uname>-</uname>
+		</nowin>
+	</tech_info>
+	<files>
+		<USR_FILE date="19.10.2021" time="20.31" kind="P" uptime="00.53.21" />
+		<INFO.CFG date="03.06.2021" time="10.33" />
+		<INFO.COD date="03.06.2021" time="09.56" />
+		<CONSULT.TOR date="16.10.2021" time="17.07" />
+		<EXPCONS.CFG date="00.00.0000" time="00.00" kind="N" />
+		<HOTLINE.CFG date="00.00.0000" time="00.00" kind="N" />
+		<EXPUSERS.CFG date="00.00.0000" time="00.00" />
+		<HOTLINEUSERS.CFG date="00.00.0000" time="00.00" />
+	</files>
+	<package>
+		<LAW_1
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<FIN_17
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<EXP_50
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<MLAW_19
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<PAP_6
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<ARB_8
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<MOB_14
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<SPB_25
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<MED_18
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<INT_21
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<PRJ_27
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<AMS_24
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<ASZ_34
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<ACN_37
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<CMT_43
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<KOR_39
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<ESU_41
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<STR_44
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<MARB_51
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<PSR_75
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<BORG_98
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<SOJ_99
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<PAS_72
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<ORNN_73
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<PISH_161
+			distr="73"
+			comp="5"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<IVRD_156
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<IVPV_162
+			distr="73"
+			comp="5"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<IVSR_163
+			distr="73"
+			comp="6"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<IVKP_164
+			distr="73"
+			comp="7"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<IVGZ_165
+			distr="73"
+			comp="8"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<IVBS_166
+			distr="73"
+			comp="9"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<IPNK_167
+			distr="73"
+			comp="10"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<IPNVBO_173
+			distr="73"
+			comp="29"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<PRSOJ_160
+			distr="73"
+			comp="5"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<PRSSP_169
+			distr="73"
+			comp="9"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<FKRDR_170
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<FKRKR_171
+			distr="73"
+			comp="2"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<FKRNK_172
+			distr="73"
+			comp="3"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<RLAW073_7
+			distr="73"
+			comp="3"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+		<KDG_105
+			distr="73"
+			comp="1"
+			ric="73"
+			netCount="50"
+			userType="NCT"
+			technolType=""
+			format="1"
+		/>
+	</package>
+	<ib>
+		<LAW nDistr="73" nComp="1" directory="LAW" name="Российское законодательство (Версия Проф)" nCat="398254" nTexts="398254" n3="398254" n4="398254" n5="398254" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="19.38" sysdate="19.10.2021" docs="398254" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.37" sysdate="18.10.2021" docs="398165" kind="P" complect="mono" /><u3 date="16.10.2021" time="19.36" sysdate="16.10.2021" docs="398145" kind="P" complect="mono" /><u4 date="15.10.2021" time="19.40" sysdate="15.10.2021" docs="398016" kind="P" complect="mono" /><u5 date="14.10.2021" time="19.38" sysdate="14.10.2021" docs="397908" kind="P" complect="mono" /><u6 date="13.10.2021" time="19.39" sysdate="13.10.2021" docs="397778" kind="P" complect="mono" /><u7 date="12.10.2021" time="19.37" sysdate="12.10.2021" docs="397625" kind="P" complect="mono" /><u8 date="11.10.2021" time="19.37" sysdate="11.10.2021" docs="397488" kind="P" complect="mono" /><u9 date="09.10.2021" time="19.35" sysdate="09.10.2021" docs="397465" kind="P" complect="mono" /><u10 date="08.10.2021" time="19.39" sysdate="08.10.2021" docs="397341" kind="P" complect="mono" />
+			</updates>
+		</LAW>
+		<PAS nDistr="73" nComp="1" directory="PAS" name="Практика антимонопольной службы" nCat="753352" nTexts="753352" n3="753352" n4="753352" n5="753352" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="19.51" sysdate="19.10.2021" docs="753352" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.47" sysdate="18.10.2021" docs="752828" kind="P" complect="mono" /><u3 date="15.10.2021" time="19.52" sysdate="15.10.2021" docs="752315" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.48" sysdate="14.10.2021" docs="751813" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.46" sysdate="13.10.2021" docs="751331" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.42" sysdate="12.10.2021" docs="750558" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.42" sysdate="11.10.2021" docs="750016" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.49" sysdate="08.10.2021" docs="749533" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.44" sysdate="07.10.2021" docs="749060" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.48" sysdate="06.10.2021" docs="748562" kind="P" complect="mono" />
+			</updates>
+		</PAS>
+		<RGSS nDistr="73" nComp="1" directory="RGSS" name="Решения госорганов по спорным ситуациям" nCat="60152" nTexts="60152" n3="60152" n4="60152" n5="60152" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.02" sysdate="19.10.2021" docs="60152" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.56" sysdate="18.10.2021" docs="60132" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.02" sysdate="15.10.2021" docs="60119" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.57" sysdate="14.10.2021" docs="60097" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.57" sysdate="13.10.2021" docs="60072" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.49" sysdate="12.10.2021" docs="60049" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.52" sysdate="11.10.2021" docs="60025" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.59" sysdate="08.10.2021" docs="59995" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.52" sysdate="07.10.2021" docs="59975" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.58" sysdate="06.10.2021" docs="59952" kind="P" complect="mono" />
+			</updates>
+		</RGSS>
+		<MLAW nDistr="73" nComp="1" directory="MLAW" name="Москва Проф" nCat="214954" nTexts="214954" n3="214954" n4="214954" n5="214954" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.00" sysdate="19.10.2021" docs="214954" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.52" sysdate="18.10.2021" docs="214928" kind="P" complect="mono" /><u3 date="16.10.2021" time="19.36" sysdate="16.10.2021" docs="214917" kind="P" complect="mono" /><u4 date="15.10.2021" time="19.58" sysdate="15.10.2021" docs="214881" kind="P" complect="mono" /><u5 date="14.10.2021" time="19.53" sysdate="14.10.2021" docs="214849" kind="P" complect="mono" /><u6 date="13.10.2021" time="19.53" sysdate="13.10.2021" docs="214808" kind="P" complect="mono" /><u7 date="12.10.2021" time="19.46" sysdate="12.10.2021" docs="214777" kind="P" complect="mono" /><u8 date="11.10.2021" time="19.50" sysdate="11.10.2021" docs="214746" kind="P" complect="mono" /><u9 date="09.10.2021" time="19.36" sysdate="09.10.2021" docs="214709" kind="P" complect="mono" /><u10 date="08.10.2021" time="19.54" sysdate="08.10.2021" docs="214698" kind="P" complect="mono" />
+			</updates>
+		</MLAW>
+		<MOB nDistr="73" nComp="1" directory="MOB" name="Московская область" nCat="322731" nTexts="322731" n3="322731" n4="322731" n5="322731" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="19.38" sysdate="19.10.2021" docs="322731" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.37" sysdate="18.10.2021" docs="322650" kind="P" complect="mono" /><u3 date="16.10.2021" time="19.36" sysdate="16.10.2021" docs="322626" kind="P" complect="mono" /><u4 date="15.10.2021" time="19.40" sysdate="15.10.2021" docs="322574" kind="P" complect="mono" /><u5 date="14.10.2021" time="19.38" sysdate="14.10.2021" docs="322482" kind="P" complect="mono" /><u6 date="13.10.2021" time="19.39" sysdate="13.10.2021" docs="322374" kind="P" complect="mono" /><u7 date="12.10.2021" time="19.37" sysdate="12.10.2021" docs="322276" kind="P" complect="mono" /><u8 date="11.10.2021" time="19.37" sysdate="11.10.2021" docs="322211" kind="P" complect="mono" /><u9 date="09.10.2021" time="19.35" sysdate="09.10.2021" docs="322175" kind="P" complect="mono" /><u10 date="08.10.2021" time="19.39" sysdate="08.10.2021" docs="322110" kind="P" complect="mono" />
+			</updates>
+		</MOB>
+		<SPB nDistr="73" nComp="1" directory="SPB" name="Санкт-Петербург и Ленинградская область" nCat="247607" nTexts="247607" n3="247607" n4="247607" n5="247607" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="19.55" sysdate="19.10.2021" docs="247607" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.51" sysdate="18.10.2021" docs="247557" kind="P" complect="mono" /><u3 date="16.10.2021" time="19.36" sysdate="16.10.2021" docs="247540" kind="P" complect="mono" /><u4 date="15.10.2021" time="19.54" sysdate="15.10.2021" docs="247511" kind="P" complect="mono" /><u5 date="14.10.2021" time="19.50" sysdate="14.10.2021" docs="247468" kind="P" complect="mono" /><u6 date="13.10.2021" time="19.50" sysdate="13.10.2021" docs="247411" kind="P" complect="mono" /><u7 date="12.10.2021" time="19.45" sysdate="12.10.2021" docs="247362" kind="P" complect="mono" /><u8 date="11.10.2021" time="19.47" sysdate="11.10.2021" docs="247307" kind="P" complect="mono" /><u9 date="09.10.2021" time="19.36" sysdate="09.10.2021" docs="247290" kind="P" complect="mono" /><u10 date="08.10.2021" time="19.51" sysdate="08.10.2021" docs="247258" kind="P" complect="mono" />
+			</updates>
+		</SPB>
+		<RLAW073 nDistr="73" nComp="3" directory="RLAW073" name="Рязанская область" nCat="343588" nTexts="343588" n3="343588" n4="343588" n5="343588" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="19.40" sysdate="19.10.2021" docs="343588" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.41" sysdate="18.10.2021" docs="343487" kind="P" complect="mono" /><u3 date="15.10.2021" time="19.52" sysdate="15.10.2021" docs="343372" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.42" sysdate="14.10.2021" docs="343301" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.41" sysdate="13.10.2021" docs="343206" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.39" sysdate="12.10.2021" docs="343104" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.41" sysdate="11.10.2021" docs="343000" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.45" sysdate="08.10.2021" docs="342826" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.40" sysdate="07.10.2021" docs="342705" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.43" sysdate="06.10.2021" docs="342629" kind="P" complect="mono" />
+			</updates>
+		</RLAW073>
+		<EXP nDistr="73" nComp="1" directory="EXP" name="Эксперт-приложение" nCat="577770" nTexts="577770" n3="577770" n4="577770" n5="577770" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="19.39" sysdate="19.10.2021" docs="577770" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.37" sysdate="18.10.2021" docs="577618" kind="P" complect="mono" /><u3 date="15.10.2021" time="19.44" sysdate="15.10.2021" docs="577474" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.39" sysdate="14.10.2021" docs="577334" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.39" sysdate="13.10.2021" docs="577153" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.38" sysdate="12.10.2021" docs="577041" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.37" sysdate="11.10.2021" docs="576920" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.42" sysdate="08.10.2021" docs="576809" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.39" sysdate="07.10.2021" docs="576687" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.40" sysdate="06.10.2021" docs="576620" kind="P" complect="mono" />
+			</updates>
+		</EXP>
+		<ESU nDistr="73" nComp="1" directory="ESU" name="Документы СССР" nCat="50849" nTexts="50849" n3="50849" n4="50849" n5="50849" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="13.10.2021" time="19.58" sysdate="13.10.2021" docs="50849" kind="P" complect="mono" /><u2 date="06.10.2021" time="19.59" sysdate="06.10.2021" docs="50828" kind="P" complect="mono" /><u3 date="29.09.2021" time="19.58" sysdate="29.09.2021" docs="50788" kind="P" complect="mono" /><u4 date="22.09.2021" time="19.57" sysdate="22.09.2021" docs="50754" kind="P" complect="mono" /><u5 date="15.09.2021" time="19.52" sysdate="15.09.2021" docs="50722" kind="P" complect="mono" /><u6 date="08.09.2021" time="19.57" sysdate="08.09.2021" docs="50689" kind="P" complect="mono" /><u7 date="01.09.2021" time="20.04" sysdate="01.09.2021" docs="50662" kind="P" complect="mono" /><u8 date="26.08.2021" time="11.14" sysdate="26.08.2021" docs="50645" kind="P" complect="mono" /><u9 date="18.08.2021" time="20.02" sysdate="18.08.2021" docs="50628" kind="P" complect="mono" /><u10 date="11.08.2021" time="19.58" sysdate="11.08.2021" docs="50601" kind="P" complect="mono" />
+			</updates>
+		</ESU>
+		<PPVS nDistr="73" nComp="1" directory="PPVS" name="Правовые позиции высших судов" nCat="7052" nTexts="7052" n3="7052" n4="7052" n5="7052" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.13" sysdate="19.10.2021" docs="7052" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.09" sysdate="18.10.2021" docs="7052" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.10" sysdate="15.10.2021" docs="7052" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.04" sysdate="14.10.2021" docs="7052" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.04" sysdate="13.10.2021" docs="7052" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.58" sysdate="12.10.2021" docs="7052" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.59" sysdate="11.10.2021" docs="7052" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.07" sysdate="08.10.2021" docs="7052" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.03" sysdate="07.10.2021" docs="7052" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.06" sysdate="06.10.2021" docs="7052" kind="P" complect="mono" />
+			</updates>
+		</PPVS>
+		<PRSSP nDistr="73" nComp="9" directory="PRSSP" name="Перспективы и риски арбитражных споров (Версия Проф)" nCat="6013" nTexts="6013" n3="6013" n4="6013" n5="6013" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.13" sysdate="19.10.2021" docs="6013" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.10" sysdate="18.10.2021" docs="6011" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.10" sysdate="15.10.2021" docs="6011" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.04" sysdate="14.10.2021" docs="6011" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.04" sysdate="13.10.2021" docs="6002" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.58" sysdate="12.10.2021" docs="5995" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.59" sysdate="11.10.2021" docs="5991" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="5991" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.03" sysdate="07.10.2021" docs="5991" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.06" sysdate="06.10.2021" docs="5991" kind="P" complect="mono" />
+			</updates>
+		</PRSSP>
+		<PRSOJ nDistr="73" nComp="5" directory="PRSOJ" name="Перспективы и риски споров в СОЮ" nCat="1242" nTexts="1242" n3="1242" n4="1242" n5="1242" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="1242" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="1242" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="1242" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="1242" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="1242" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="1242" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.00" sysdate="11.10.2021" docs="1242" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="1242" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.04" sysdate="07.10.2021" docs="1242" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="1242" kind="P" complect="mono" />
+			</updates>
+		</PRSOJ>
+		<ARB nDistr="73" nComp="1" directory="ARB" name="Решения высших судов" nCat="684790" nTexts="684790" n3="684790" n4="684790" n5="684790" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="19.59" sysdate="19.10.2021" docs="684790" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.51" sysdate="18.10.2021" docs="684565" kind="P" complect="mono" /><u3 date="15.10.2021" time="19.57" sysdate="15.10.2021" docs="684329" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.51" sysdate="14.10.2021" docs="684123" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.51" sysdate="13.10.2021" docs="683951" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.45" sysdate="12.10.2021" docs="683734" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.48" sysdate="11.10.2021" docs="683533" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.55" sysdate="08.10.2021" docs="683345" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.50" sysdate="07.10.2021" docs="683158" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.54" sysdate="06.10.2021" docs="682986" kind="P" complect="mono" />
+			</updates>
+		</ARB>
+		<SIP nDistr="73" nComp="1" directory="SIP" name="Суд по интеллектуальным правам" nCat="83967" nTexts="83967" n3="83967" n4="83967" n5="83967" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.04" sysdate="19.10.2021" docs="83967" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.02" sysdate="18.10.2021" docs="83835" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.03" sysdate="15.10.2021" docs="83801" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.58" sysdate="14.10.2021" docs="83731" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.57" sysdate="13.10.2021" docs="83693" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.53" sysdate="12.10.2021" docs="83621" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.54" sysdate="11.10.2021" docs="83532" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.00" sysdate="08.10.2021" docs="83494" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.54" sysdate="07.10.2021" docs="83402" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.59" sysdate="06.10.2021" docs="83373" kind="P" complect="mono" />
+			</updates>
+		</SIP>
+		<AMS nDistr="73" nComp="1" directory="AMS" name="Арбитражный суд Московского округа" nCat="396012" nTexts="396012" n3="396012" n4="396012" n5="396012" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.01" sysdate="19.10.2021" docs="396012" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.54" sysdate="18.10.2021" docs="395841" kind="P" complect="mono" /><u3 date="15.10.2021" time="19.58" sysdate="15.10.2021" docs="395682" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.53" sysdate="14.10.2021" docs="395479" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.53" sysdate="13.10.2021" docs="395288" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.48" sysdate="12.10.2021" docs="395124" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.51" sysdate="11.10.2021" docs="394944" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.55" sysdate="08.10.2021" docs="394737" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.50" sysdate="07.10.2021" docs="394591" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.54" sysdate="06.10.2021" docs="394443" kind="P" complect="mono" />
+			</updates>
+		</AMS>
+		<ASZ nDistr="73" nComp="1" directory="ASZ" name="Арбитражный суд Северо-Западного округа" nCat="253261" nTexts="253261" n3="253261" n4="253261" n5="253261" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="18.10.2021" time="19.56" sysdate="18.10.2021" docs="253261" kind="P" complect="mono" /><u2 date="11.10.2021" time="19.53" sysdate="11.10.2021" docs="252819" kind="P" complect="mono" /><u3 date="04.10.2021" time="19.52" sysdate="04.10.2021" docs="252424" kind="P" complect="mono" /><u4 date="27.09.2021" time="19.54" sysdate="27.09.2021" docs="252072" kind="P" complect="mono" /><u5 date="20.09.2021" time="19.50" sysdate="20.09.2021" docs="251702" kind="P" complect="mono" /><u6 date="13.09.2021" time="19.57" sysdate="13.09.2021" docs="251355" kind="P" complect="mono" /><u7 date="06.09.2021" time="19.55" sysdate="06.09.2021" docs="251033" kind="P" complect="mono" /><u8 date="31.08.2021" time="09.15" sysdate="31.08.2021" docs="250708" kind="P" complect="mono" /><u9 date="23.08.2021" time="19.52" sysdate="23.08.2021" docs="250385" kind="P" complect="mono" /><u10 date="16.08.2021" time="19.49" sysdate="16.08.2021" docs="250153" kind="P" complect="mono" />
+			</updates>
+		</ASZ>
+		<ACN nDistr="73" nComp="1" directory="ACN" name="Арбитражный суд Центрального округа" nCat="135244" nTexts="135244" n3="135244" n4="135244" n5="135244" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.07" sysdate="19.10.2021" docs="135244" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.03" sysdate="18.10.2021" docs="135209" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.04" sysdate="15.10.2021" docs="135174" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.00" sysdate="14.10.2021" docs="135139" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.59" sysdate="13.10.2021" docs="135099" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.54" sysdate="12.10.2021" docs="135059" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.55" sysdate="11.10.2021" docs="135049" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.00" sysdate="08.10.2021" docs="135029" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.55" sysdate="07.10.2021" docs="134994" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.01" sysdate="06.10.2021" docs="134959" kind="P" complect="mono" />
+			</updates>
+		</ACN>
+		<KSOJ001 nDistr="73" nComp="1" directory="KSOJ001" name="1 кассационный суд" nCat="58819" nTexts="58819" n3="58819" n4="58819" n5="58819" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.10" sysdate="19.10.2021" docs="58819" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.05" sysdate="18.10.2021" docs="58719" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.07" sysdate="15.10.2021" docs="58626" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.01" sysdate="14.10.2021" docs="58576" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.01" sysdate="13.10.2021" docs="58452" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.56" sysdate="12.10.2021" docs="58411" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.56" sysdate="11.10.2021" docs="58354" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.03" sysdate="08.10.2021" docs="58304" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.59" sysdate="07.10.2021" docs="58186" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.03" sysdate="06.10.2021" docs="58124" kind="P" complect="mono" />
+			</updates>
+		</KSOJ001>
+		<KSOJ002 nDistr="73" nComp="1" directory="KSOJ002" name="2 кассационный суд" nCat="48683" nTexts="48683" n3="48683" n4="48683" n5="48683" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.11" sysdate="19.10.2021" docs="48683" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.06" sysdate="18.10.2021" docs="48681" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.07" sysdate="15.10.2021" docs="48678" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.02" sysdate="14.10.2021" docs="48675" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.02" sysdate="13.10.2021" docs="48660" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.56" sysdate="12.10.2021" docs="48655" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.58" sysdate="11.10.2021" docs="48640" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.04" sysdate="08.10.2021" docs="48631" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.00" sysdate="07.10.2021" docs="48540" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.04" sysdate="06.10.2021" docs="48217" kind="P" complect="mono" />
+			</updates>
+		</KSOJ002>
+		<KSOJ003 nDistr="73" nComp="1" directory="KSOJ003" name="3 кассационный суд" nCat="42700" nTexts="42700" n3="42700" n4="42700" n5="42700" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.12" sysdate="19.10.2021" docs="42700" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.06" sysdate="18.10.2021" docs="42625" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.08" sysdate="15.10.2021" docs="42450" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.02" sysdate="14.10.2021" docs="42444" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.03" sysdate="13.10.2021" docs="42351" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.56" sysdate="12.10.2021" docs="42177" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.58" sysdate="11.10.2021" docs="42053" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.04" sysdate="08.10.2021" docs="41712" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.00" sysdate="07.10.2021" docs="41711" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.04" sysdate="06.10.2021" docs="41709" kind="P" complect="mono" />
+			</updates>
+		</KSOJ003>
+		<KSOJ004 nDistr="73" nComp="1" directory="KSOJ004" name="4 кассационный суд" nCat="53664" nTexts="53664" n3="53664" n4="53664" n5="53664" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.11" sysdate="19.10.2021" docs="53664" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.06" sysdate="18.10.2021" docs="53555" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.07" sysdate="15.10.2021" docs="53468" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.01" sysdate="14.10.2021" docs="53297" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.02" sysdate="13.10.2021" docs="53173" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.56" sysdate="12.10.2021" docs="52765" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.57" sysdate="11.10.2021" docs="52663" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.03" sysdate="08.10.2021" docs="52658" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.59" sysdate="07.10.2021" docs="52505" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.03" sysdate="06.10.2021" docs="52418" kind="P" complect="mono" />
+			</updates>
+		</KSOJ004>
+		<KSOJ005 nDistr="73" nComp="1" directory="KSOJ005" name="5 кассационный суд" nCat="18566" nTexts="18566" n3="18566" n4="18566" n5="18566" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.12" sysdate="19.10.2021" docs="18566" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.07" sysdate="18.10.2021" docs="18505" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.09" sysdate="15.10.2021" docs="18445" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.03" sysdate="14.10.2021" docs="18409" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.04" sysdate="13.10.2021" docs="18336" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.57" sysdate="12.10.2021" docs="18325" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.58" sysdate="11.10.2021" docs="18277" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.05" sysdate="08.10.2021" docs="18200" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.02" sysdate="07.10.2021" docs="18171" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.05" sysdate="06.10.2021" docs="18158" kind="P" complect="mono" />
+			</updates>
+		</KSOJ005>
+		<KSOJ006 nDistr="73" nComp="1" directory="KSOJ006" name="6 кассационный суд" nCat="59761" nTexts="59761" n3="59761" n4="59761" n5="59761" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.09" sysdate="19.10.2021" docs="59761" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.05" sysdate="18.10.2021" docs="59639" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.06" sysdate="15.10.2021" docs="59386" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.00" sysdate="14.10.2021" docs="59213" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.01" sysdate="13.10.2021" docs="58872" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.55" sysdate="12.10.2021" docs="58824" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.56" sysdate="11.10.2021" docs="58674" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.03" sysdate="08.10.2021" docs="58405" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.58" sysdate="07.10.2021" docs="58004" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.03" sysdate="06.10.2021" docs="57788" kind="P" complect="mono" />
+			</updates>
+		</KSOJ006>
+		<KSOJ007 nDistr="73" nComp="1" directory="KSOJ007" name="7 кассационный суд" nCat="41011" nTexts="41011" n3="41011" n4="41011" n5="41011" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.12" sysdate="19.10.2021" docs="41011" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.06" sysdate="18.10.2021" docs="40920" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.08" sysdate="15.10.2021" docs="40817" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.02" sysdate="14.10.2021" docs="40593" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.03" sysdate="13.10.2021" docs="40465" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.56" sysdate="12.10.2021" docs="40351" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.58" sysdate="11.10.2021" docs="40313" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.04" sysdate="08.10.2021" docs="40274" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.01" sysdate="07.10.2021" docs="40155" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.04" sysdate="06.10.2021" docs="40050" kind="P" complect="mono" />
+			</updates>
+		</KSOJ007>
+		<KSOJ008 nDistr="73" nComp="1" directory="KSOJ008" name="8 кассационный суд" nCat="48166" nTexts="48166" n3="48166" n4="48166" n5="48166" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.11" sysdate="19.10.2021" docs="48166" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.06" sysdate="18.10.2021" docs="47886" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.07" sysdate="15.10.2021" docs="47883" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.02" sysdate="14.10.2021" docs="47667" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.02" sysdate="13.10.2021" docs="47593" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.56" sysdate="12.10.2021" docs="47462" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.57" sysdate="11.10.2021" docs="47210" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.04" sysdate="08.10.2021" docs="47068" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.00" sysdate="07.10.2021" docs="47062" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.03" sysdate="06.10.2021" docs="47054" kind="P" complect="mono" />
+			</updates>
+		</KSOJ008>
+		<KSOJ009 nDistr="73" nComp="1" directory="KSOJ009" name="9 кассационный суд" nCat="25205" nTexts="25205" n3="25205" n4="25205" n5="25205" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.12" sysdate="19.10.2021" docs="25205" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.07" sysdate="18.10.2021" docs="25189" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.08" sysdate="15.10.2021" docs="25084" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.03" sysdate="14.10.2021" docs="25042" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.03" sysdate="13.10.2021" docs="24985" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.57" sysdate="12.10.2021" docs="24925" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.58" sysdate="11.10.2021" docs="24880" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.05" sysdate="08.10.2021" docs="24853" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.01" sysdate="07.10.2021" docs="24784" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.05" sysdate="06.10.2021" docs="24730" kind="P" complect="mono" />
+			</updates>
+		</KSOJ009>
+		<KSOJF nDistr="73" nComp="1" directory="KSOJF" name="Кассационный военный суд" nCat="5036" nTexts="5036" n3="5036" n4="5036" n5="5036" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.13" sysdate="19.10.2021" docs="5036" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.08" sysdate="18.10.2021" docs="5035" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.09" sysdate="15.10.2021" docs="5030" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.04" sysdate="14.10.2021" docs="5010" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.04" sysdate="13.10.2021" docs="4977" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.57" sysdate="12.10.2021" docs="4967" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.59" sysdate="11.10.2021" docs="4965" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.06" sysdate="08.10.2021" docs="4957" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.02" sysdate="07.10.2021" docs="4956" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.05" sysdate="06.10.2021" docs="4922" kind="P" complect="mono" />
+			</updates>
+		</KSOJF>
+		<SOAS nDistr="73" nComp="1" directory="SOAS" name="Апелляционные суды общей юрисдикции" nCat="25098" nTexts="25098" n3="25098" n4="25098" n5="25098" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.12" sysdate="19.10.2021" docs="25098" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.07" sysdate="18.10.2021" docs="25063" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.08" sysdate="15.10.2021" docs="25030" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.02" sysdate="14.10.2021" docs="24964" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.03" sysdate="13.10.2021" docs="24916" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.57" sysdate="12.10.2021" docs="24877" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.58" sysdate="11.10.2021" docs="24794" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.04" sysdate="08.10.2021" docs="24750" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.01" sysdate="07.10.2021" docs="24725" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.04" sysdate="06.10.2021" docs="24644" kind="P" complect="mono" />
+			</updates>
+		</SOAS>
+		<SOKI nDistr="73" nComp="1" directory="SOKI" name="1 кассационный округ" nCat="367017" nTexts="367017" n3="367017" n4="367017" n5="367017" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="20.00" sysdate="15.10.2021" docs="367017" kind="P" complect="mono" /><u2 date="08.10.2021" time="19.56" sysdate="08.10.2021" docs="366923" kind="P" complect="mono" /><u3 date="01.10.2021" time="19.58" sysdate="01.10.2021" docs="366826" kind="P" complect="mono" /><u4 date="24.09.2021" time="19.59" sysdate="24.09.2021" docs="366692" kind="P" complect="mono" /><u5 date="17.09.2021" time="20.00" sysdate="17.09.2021" docs="366566" kind="P" complect="mono" /><u6 date="10.09.2021" time="19.56" sysdate="10.09.2021" docs="366444" kind="P" complect="mono" /><u7 date="03.09.2021" time="20.00" sysdate="03.09.2021" docs="365680" kind="P" complect="mono" /><u8 date="27.08.2021" time="19.59" sysdate="27.08.2021" docs="364965" kind="P" complect="mono" /><u9 date="20.08.2021" time="19.58" sysdate="20.08.2021" docs="364164" kind="P" complect="mono" /><u10 date="13.08.2021" time="19.55" sysdate="13.08.2021" docs="363609" kind="P" complect="mono" />
+			</updates>
+		</SOKI>
+		<SOCN nDistr="73" nComp="1" directory="SOCN" name="2 кассационный округ" nCat="1410333" nTexts="1410333" n3="1410333" n4="1410333" n5="1410333" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="19.41" sysdate="15.10.2021" docs="1410333" kind="P" complect="mono" /><u2 date="08.10.2021" time="19.40" sysdate="08.10.2021" docs="1406580" kind="P" complect="mono" /><u3 date="01.10.2021" time="19.41" sysdate="01.10.2021" docs="1404474" kind="P" complect="mono" /><u4 date="24.09.2021" time="19.40" sysdate="24.09.2021" docs="1401522" kind="P" complect="mono" /><u5 date="17.09.2021" time="19.39" sysdate="17.09.2021" docs="1399421" kind="P" complect="mono" /><u6 date="10.09.2021" time="19.39" sysdate="10.09.2021" docs="1397741" kind="P" complect="mono" /><u7 date="03.09.2021" time="19.41" sysdate="03.09.2021" docs="1395236" kind="P" complect="mono" /><u8 date="27.08.2021" time="19.40" sysdate="27.08.2021" docs="1392750" kind="P" complect="mono" /><u9 date="20.08.2021" time="19.39" sysdate="20.08.2021" docs="1390947" kind="P" complect="mono" /><u10 date="13.08.2021" time="19.40" sysdate="13.08.2021" docs="1387257" kind="P" complect="mono" />
+			</updates>
+		</SOCN>
+		<SOSZ nDistr="73" nComp="1" directory="SOSZ" name="3 кассационный округ" nCat="282467" nTexts="282467" n3="282467" n4="282467" n5="282467" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="20.01" sysdate="15.10.2021" docs="282467" kind="P" complect="mono" /><u2 date="08.10.2021" time="19.58" sysdate="08.10.2021" docs="282231" kind="P" complect="mono" /><u3 date="01.10.2021" time="20.00" sysdate="01.10.2021" docs="281920" kind="P" complect="mono" /><u4 date="24.09.2021" time="20.05" sysdate="24.09.2021" docs="281671" kind="P" complect="mono" /><u5 date="17.09.2021" time="20.03" sysdate="17.09.2021" docs="281232" kind="P" complect="mono" /><u6 date="10.09.2021" time="19.57" sysdate="10.09.2021" docs="280858" kind="P" complect="mono" /><u7 date="03.09.2021" time="20.02" sysdate="03.09.2021" docs="280414" kind="P" complect="mono" /><u8 date="27.08.2021" time="20.06" sysdate="27.08.2021" docs="279786" kind="P" complect="mono" /><u9 date="20.08.2021" time="20.01" sysdate="20.08.2021" docs="279466" kind="P" complect="mono" /><u10 date="13.08.2021" time="20.01" sysdate="13.08.2021" docs="278960" kind="P" complect="mono" />
+			</updates>
+		</SOSZ>
+		<SOUG nDistr="73" nComp="1" directory="SOUG" name="4 кассационный округ" nCat="193502" nTexts="193502" n3="193502" n4="193502" n5="193502" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="20.03" sysdate="15.10.2021" docs="193502" kind="P" complect="mono" /><u2 date="08.10.2021" time="19.59" sysdate="08.10.2021" docs="193416" kind="P" complect="mono" /><u3 date="01.10.2021" time="20.04" sysdate="01.10.2021" docs="193335" kind="P" complect="mono" /><u4 date="24.09.2021" time="20.07" sysdate="24.09.2021" docs="193229" kind="P" complect="mono" /><u5 date="17.09.2021" time="20.06" sysdate="17.09.2021" docs="193165" kind="P" complect="mono" /><u6 date="10.09.2021" time="19.59" sysdate="10.09.2021" docs="193068" kind="P" complect="mono" /><u7 date="03.09.2021" time="20.05" sysdate="03.09.2021" docs="192965" kind="P" complect="mono" /><u8 date="27.08.2021" time="20.09" sysdate="27.08.2021" docs="192751" kind="P" complect="mono" /><u9 date="20.08.2021" time="20.03" sysdate="20.08.2021" docs="192743" kind="P" complect="mono" /><u10 date="13.08.2021" time="20.10" sysdate="13.08.2021" docs="192670" kind="P" complect="mono" />
+			</updates>
+		</SOUG>
+		<SOSK nDistr="73" nComp="1" directory="SOSK" name="5 кассационный округ" nCat="101663" nTexts="101663" n3="101663" n4="101663" n5="101663" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="20.05" sysdate="15.10.2021" docs="101663" kind="P" complect="mono" /><u2 date="08.10.2021" time="20.01" sysdate="08.10.2021" docs="101636" kind="P" complect="mono" /><u3 date="01.10.2021" time="20.07" sysdate="01.10.2021" docs="101618" kind="P" complect="mono" /><u4 date="24.09.2021" time="20.10" sysdate="24.09.2021" docs="101599" kind="P" complect="mono" /><u5 date="17.09.2021" time="20.08" sysdate="17.09.2021" docs="101579" kind="P" complect="mono" /><u6 date="10.09.2021" time="20.01" sysdate="10.09.2021" docs="101566" kind="P" complect="mono" /><u7 date="03.09.2021" time="20.06" sysdate="03.09.2021" docs="101549" kind="P" complect="mono" /><u8 date="27.08.2021" time="20.12" sysdate="27.08.2021" docs="101515" kind="P" complect="mono" /><u9 date="20.08.2021" time="20.06" sysdate="20.08.2021" docs="101495" kind="P" complect="mono" /><u10 date="13.08.2021" time="20.15" sysdate="13.08.2021" docs="101479" kind="P" complect="mono" />
+			</updates>
+		</SOSK>
+		<SOPV nDistr="73" nComp="1" directory="SOPV" name="6 кассационный округ" nCat="443334" nTexts="443334" n3="443334" n4="443334" n5="443334" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="19.55" sysdate="15.10.2021" docs="443334" kind="P" complect="mono" /><u2 date="08.10.2021" time="19.51" sysdate="08.10.2021" docs="443209" kind="P" complect="mono" /><u3 date="01.10.2021" time="19.55" sysdate="01.10.2021" docs="443075" kind="P" complect="mono" /><u4 date="24.09.2021" time="19.50" sysdate="24.09.2021" docs="442918" kind="P" complect="mono" /><u5 date="17.09.2021" time="19.57" sysdate="17.09.2021" docs="442785" kind="P" complect="mono" /><u6 date="10.09.2021" time="19.51" sysdate="10.09.2021" docs="442636" kind="P" complect="mono" /><u7 date="03.09.2021" time="19.55" sysdate="03.09.2021" docs="442489" kind="P" complect="mono" /><u8 date="27.08.2021" time="19.54" sysdate="27.08.2021" docs="442343" kind="P" complect="mono" /><u9 date="20.08.2021" time="19.55" sysdate="20.08.2021" docs="442188" kind="P" complect="mono" /><u10 date="13.08.2021" time="19.53" sysdate="13.08.2021" docs="442036" kind="P" complect="mono" />
+			</updates>
+		</SOPV>
+		<SOUR nDistr="73" nComp="1" directory="SOUR" name="7 кассационный округ" nCat="267936" nTexts="267936" n3="267936" n4="267936" n5="267936" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="20.02" sysdate="15.10.2021" docs="267936" kind="P" complect="mono" /><u2 date="08.10.2021" time="19.59" sysdate="08.10.2021" docs="267823" kind="P" complect="mono" /><u3 date="01.10.2021" time="20.01" sysdate="01.10.2021" docs="267700" kind="P" complect="mono" /><u4 date="24.09.2021" time="20.06" sysdate="24.09.2021" docs="267562" kind="P" complect="mono" /><u5 date="17.09.2021" time="20.04" sysdate="17.09.2021" docs="267447" kind="P" complect="mono" /><u6 date="10.09.2021" time="19.58" sysdate="10.09.2021" docs="267289" kind="P" complect="mono" /><u7 date="03.09.2021" time="20.03" sysdate="03.09.2021" docs="267053" kind="P" complect="mono" /><u8 date="27.08.2021" time="20.07" sysdate="27.08.2021" docs="266925" kind="P" complect="mono" /><u9 date="20.08.2021" time="20.01" sysdate="20.08.2021" docs="266820" kind="P" complect="mono" /><u10 date="13.08.2021" time="20.03" sysdate="13.08.2021" docs="266679" kind="P" complect="mono" />
+			</updates>
+		</SOUR>
+		<SOSB nDistr="73" nComp="1" directory="SOSB" name="8 кассационный округ" nCat="290864" nTexts="290864" n3="290864" n4="290864" n5="290864" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="20.01" sysdate="15.10.2021" docs="290864" kind="P" complect="mono" /><u2 date="08.10.2021" time="19.57" sysdate="08.10.2021" docs="290771" kind="P" complect="mono" /><u3 date="01.10.2021" time="19.59" sysdate="01.10.2021" docs="290690" kind="P" complect="mono" /><u4 date="24.09.2021" time="20.05" sysdate="24.09.2021" docs="290606" kind="P" complect="mono" /><u5 date="17.09.2021" time="20.03" sysdate="17.09.2021" docs="290515" kind="P" complect="mono" /><u6 date="10.09.2021" time="19.56" sysdate="10.09.2021" docs="290430" kind="P" complect="mono" /><u7 date="03.09.2021" time="20.02" sysdate="03.09.2021" docs="290347" kind="P" complect="mono" /><u8 date="27.08.2021" time="20.02" sysdate="27.08.2021" docs="290260" kind="P" complect="mono" /><u9 date="20.08.2021" time="20.00" sysdate="20.08.2021" docs="290161" kind="P" complect="mono" /><u10 date="13.08.2021" time="19.57" sysdate="13.08.2021" docs="290073" kind="P" complect="mono" />
+			</updates>
+		</SOSB>
+		<SODV nDistr="73" nComp="1" directory="SODV" name="9 кассационный округ" nCat="138412" nTexts="138412" n3="138412" n4="138412" n5="138412" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="20.05" sysdate="15.10.2021" docs="138412" kind="P" complect="mono" /><u2 date="08.10.2021" time="20.01" sysdate="08.10.2021" docs="137678" kind="P" complect="mono" /><u3 date="01.10.2021" time="20.07" sysdate="01.10.2021" docs="137049" kind="P" complect="mono" /><u4 date="24.09.2021" time="20.09" sysdate="24.09.2021" docs="136238" kind="P" complect="mono" /><u5 date="17.09.2021" time="20.07" sysdate="17.09.2021" docs="135487" kind="P" complect="mono" /><u6 date="10.09.2021" time="20.01" sysdate="10.09.2021" docs="134811" kind="P" complect="mono" /><u7 date="03.09.2021" time="20.07" sysdate="03.09.2021" docs="134798" kind="P" complect="mono" /><u8 date="27.08.2021" time="20.12" sysdate="27.08.2021" docs="134782" kind="P" complect="mono" /><u9 date="20.08.2021" time="20.05" sysdate="20.08.2021" docs="134765" kind="P" complect="mono" /><u10 date="13.08.2021" time="20.14" sysdate="13.08.2021" docs="134749" kind="P" complect="mono" />
+			</updates>
+		</SODV>
+		<OFS nDistr="73" nComp="1" directory="OFS" name="Окружные (флотские) военные суды" nCat="6440" nTexts="6440" n3="6440" n4="6440" n5="6440" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="13.10.2021" time="20.04" sysdate="13.10.2021" docs="6440" kind="P" complect="mono" /><u2 date="06.10.2021" time="20.05" sysdate="06.10.2021" docs="6360" kind="P" complect="mono" /><u3 date="29.09.2021" time="20.06" sysdate="29.09.2021" docs="6280" kind="P" complect="mono" /><u4 date="22.09.2021" time="20.03" sysdate="22.09.2021" docs="6200" kind="P" complect="mono" /><u5 date="15.09.2021" time="20.01" sysdate="15.09.2021" docs="6122" kind="P" complect="mono" /><u6 date="08.09.2021" time="20.01" sysdate="08.09.2021" docs="6042" kind="P" complect="mono" /><u7 date="01.09.2021" time="20.12" sysdate="01.09.2021" docs="5962" kind="P" complect="mono" /><u8 date="26.08.2021" time="11.18" sysdate="26.08.2021" docs="5883" kind="P" complect="mono" /><u9 date="18.08.2021" time="20.09" sysdate="18.08.2021" docs="5807" kind="P" complect="mono" /><u10 date="11.08.2021" time="20.04" sysdate="11.08.2021" docs="5738" kind="P" complect="mono" />
+			</updates>
+		</OFS>
+		<MARB nDistr="73" nComp="1" directory="MARB" name="Суды Москвы и области" nCat="2130183" nTexts="2130183" n3="2130183" n4="2130183" n5="2130183" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="19.40" sysdate="19.10.2021" docs="2130183" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.39" sysdate="18.10.2021" docs="2129479" kind="P" complect="mono" /><u3 date="15.10.2021" time="19.41" sysdate="15.10.2021" docs="2128638" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.40" sysdate="14.10.2021" docs="2127770" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.40" sysdate="13.10.2021" docs="2126849" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.39" sysdate="12.10.2021" docs="2125961" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.39" sysdate="11.10.2021" docs="2124883" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.41" sysdate="08.10.2021" docs="2123607" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.39" sysdate="07.10.2021" docs="2122624" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.41" sysdate="06.10.2021" docs="2121237" kind="P" complect="mono" />
+			</updates>
+		</MARB>
+		<PSR nDistr="73" nComp="1" directory="PSR" name="Подборки судебных решений" nCat="80801" nTexts="80801" n3="80801" n4="80801" n5="80801" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="13.10.2021" time="20.03" sysdate="13.10.2021" docs="80801" kind="P" complect="mono" /><u2 date="06.10.2021" time="20.05" sysdate="06.10.2021" docs="80737" kind="P" complect="mono" /><u3 date="29.09.2021" time="20.05" sysdate="29.09.2021" docs="80674" kind="P" complect="mono" /><u4 date="22.09.2021" time="20.02" sysdate="22.09.2021" docs="80620" kind="P" complect="mono" /><u5 date="15.09.2021" time="20.00" sysdate="15.09.2021" docs="80536" kind="P" complect="mono" /><u6 date="08.09.2021" time="20.01" sysdate="08.09.2021" docs="80459" kind="P" complect="mono" /><u7 date="01.09.2021" time="20.12" sysdate="01.09.2021" docs="80384" kind="P" complect="mono" /><u8 date="26.08.2021" time="11.17" sysdate="26.08.2021" docs="80325" kind="P" complect="mono" /><u9 date="18.08.2021" time="20.08" sysdate="18.08.2021" docs="80248" kind="P" complect="mono" /><u10 date="11.08.2021" time="20.03" sysdate="11.08.2021" docs="80164" kind="P" complect="mono" />
+			</updates>
+		</PSR>
+		<PPN nDistr="73" nComp="1" directory="PPN" name="Путеводитель по налогам" nCat="108" nTexts="108" n3="108" n4="108" n5="108" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.13" sysdate="19.10.2021" docs="108" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.08" sysdate="18.10.2021" docs="108" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.09" sysdate="15.10.2021" docs="108" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.03" sysdate="14.10.2021" docs="108" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.04" sysdate="13.10.2021" docs="108" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.57" sysdate="12.10.2021" docs="108" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.59" sysdate="11.10.2021" docs="108" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.06" sysdate="08.10.2021" docs="108" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.02" sysdate="07.10.2021" docs="108" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.05" sysdate="06.10.2021" docs="108" kind="P" complect="mono" />
+			</updates>
+		</PPN>
+		<PKV nDistr="73" nComp="1" directory="PKV" name="Путеводитель по кадровым вопросам" nCat="2238" nTexts="2238" n3="2238" n4="2238" n5="2238" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.13" sysdate="19.10.2021" docs="2238" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.10" sysdate="18.10.2021" docs="2238" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.10" sysdate="15.10.2021" docs="2238" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.04" sysdate="14.10.2021" docs="2238" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="2238" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.58" sysdate="12.10.2021" docs="2238" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.00" sysdate="11.10.2021" docs="2238" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="2238" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.03" sysdate="07.10.2021" docs="2238" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.06" sysdate="06.10.2021" docs="2238" kind="P" complect="mono" />
+			</updates>
+		</PKV>
+		<PPS nDistr="73" nComp="1" directory="PPS" name="Путеводитель по сделкам" nCat="280" nTexts="280" n3="280" n4="280" n5="280" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="280" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.10" sysdate="18.10.2021" docs="280" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.10" sysdate="15.10.2021" docs="280" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.04" sysdate="14.10.2021" docs="280" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="280" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.58" sysdate="12.10.2021" docs="280" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.00" sysdate="11.10.2021" docs="280" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="280" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.04" sysdate="07.10.2021" docs="280" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.06" sysdate="06.10.2021" docs="280" kind="P" complect="mono" />
+			</updates>
+		</PPS>
+		<IPNK nDistr="73" nComp="10" directory="IPNK" name="Изменения по налогам и кадрам" nCat="181" nTexts="181" n3="181" n4="181" n5="181" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="181" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="181" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="181" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="181" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="181" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="180" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="180" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="180" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="180" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="180" kind="P" complect="mono" />
+			</updates>
+		</IPNK>
+		<QUEST nDistr="73" nComp="1" directory="QUEST" name="Вопросы-ответы (Финансист)" nCat="207114" nTexts="207114" n3="207114" n4="207114" n5="207114" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.08" sysdate="19.10.2021" docs="207114" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.05" sysdate="18.10.2021" docs="207087" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.05" sysdate="15.10.2021" docs="207065" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.00" sysdate="14.10.2021" docs="207041" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.00" sysdate="13.10.2021" docs="207012" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.54" sysdate="12.10.2021" docs="206963" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.55" sysdate="11.10.2021" docs="206951" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.03" sysdate="08.10.2021" docs="206927" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.57" sysdate="07.10.2021" docs="206873" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.02" sysdate="06.10.2021" docs="206859" kind="P" complect="mono" />
+			</updates>
+		</QUEST>
+		<PBI nDistr="73" nComp="1" directory="PBI" name="Бухгалтерская пресса и книги" nCat="291947" nTexts="291947" n3="291947" n4="291947" n5="291947" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="19.44" sysdate="19.10.2021" docs="291947" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.41" sysdate="18.10.2021" docs="291857" kind="P" complect="mono" /><u3 date="15.10.2021" time="19.52" sysdate="15.10.2021" docs="291813" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.42" sysdate="14.10.2021" docs="291706" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.41" sysdate="13.10.2021" docs="291619" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.40" sysdate="12.10.2021" docs="291578" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.41" sysdate="11.10.2021" docs="291534" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.48" sysdate="08.10.2021" docs="291461" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.41" sysdate="07.10.2021" docs="291370" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.44" sysdate="06.10.2021" docs="291304" kind="P" complect="mono" />
+			</updates>
+		</PBI>
+		<KOR nDistr="73" nComp="1" directory="KOR" name="Корреспонденция счетов" nCat="21108" nTexts="21108" n3="21108" n4="21108" n5="21108" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="20.09" sysdate="15.10.2021" docs="21108" kind="P" complect="mono" /><u2 date="08.10.2021" time="20.05" sysdate="08.10.2021" docs="21108" kind="P" complect="mono" /><u3 date="01.10.2021" time="20.12" sysdate="01.10.2021" docs="21108" kind="P" complect="mono" /><u4 date="24.09.2021" time="20.14" sysdate="24.09.2021" docs="21108" kind="P" complect="mono" /><u5 date="17.09.2021" time="20.11" sysdate="17.09.2021" docs="21108" kind="P" complect="mono" /><u6 date="10.09.2021" time="20.05" sysdate="10.09.2021" docs="21108" kind="P" complect="mono" /><u7 date="03.09.2021" time="20.10" sysdate="03.09.2021" docs="21108" kind="P" complect="mono" /><u8 date="27.08.2021" time="20.16" sysdate="27.08.2021" docs="21108" kind="P" complect="mono" /><u9 date="20.08.2021" time="20.09" sysdate="20.08.2021" docs="21108" kind="P" complect="mono" /><u10 date="13.08.2021" time="20.18" sysdate="13.08.2021" docs="21108" kind="P" complect="mono" />
+			</updates>
+		</KOR>
+		<KGL nDistr="73" nComp="1" directory="KGL" name="Подборки и консультации Горячей линии" nCat="15795" nTexts="15795" n3="15795" n4="15795" n5="15795" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.13" sysdate="19.10.2021" docs="15795" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.08" sysdate="18.10.2021" docs="15718" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.09" sysdate="15.10.2021" docs="15638" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.04" sysdate="14.10.2021" docs="15537" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.04" sysdate="13.10.2021" docs="15398" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.57" sysdate="12.10.2021" docs="15290" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.59" sysdate="11.10.2021" docs="15147" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.06" sysdate="08.10.2021" docs="15019" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.03" sysdate="07.10.2021" docs="14941" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.06" sysdate="06.10.2021" docs="14833" kind="P" complect="mono" />
+			</updates>
+		</KGL>
+		<PBUN nDistr="73" nComp="1" directory="PBUN" name="Путеводитель по бюджетному учету и налогам" nCat="85" nTexts="85" n3="85" n4="85" n5="85" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="85" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.10" sysdate="18.10.2021" docs="85" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.10" sysdate="15.10.2021" docs="85" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="85" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="85" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.58" sysdate="12.10.2021" docs="85" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.00" sysdate="11.10.2021" docs="85" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="85" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.04" sysdate="07.10.2021" docs="85" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="85" kind="P" complect="mono" />
+			</updates>
+		</PBUN>
+		<IVBS nDistr="73" nComp="9" directory="IVBS" name="Изменения в бюджетном учете и финансировании" nCat="60" nTexts="60" n3="60" n4="60" n5="60" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="60" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="60" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="60" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="60" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.06" sysdate="13.10.2021" docs="60" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="60" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="60" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.09" sysdate="08.10.2021" docs="60" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="60" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="60" kind="P" complect="mono" />
+			</updates>
+		</IVBS>
+		<IPNVBO nDistr="73" nComp="29" directory="IPNVBO" name="Изменения по налогам и взносам (бюджетные организации)" nCat="82" nTexts="82" n3="82" n4="82" n5="82" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.15" sysdate="19.10.2021" docs="82" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="82" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="82" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="82" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.06" sysdate="13.10.2021" docs="82" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="82" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="82" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.09" sysdate="08.10.2021" docs="82" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="82" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="82" kind="P" complect="mono" />
+			</updates>
+		</IPNVBO>
+		<QSBO nDistr="73" nComp="1" directory="QSBO" name="Вопросы-ответы (бюджетные организации)" nCat="22402" nTexts="22402" n3="22402" n4="22402" n5="22402" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="20.09" sysdate="15.10.2021" docs="22402" kind="P" complect="mono" /><u2 date="08.10.2021" time="20.06" sysdate="08.10.2021" docs="22372" kind="P" complect="mono" /><u3 date="01.10.2021" time="20.12" sysdate="01.10.2021" docs="22366" kind="P" complect="mono" /><u4 date="24.09.2021" time="20.15" sysdate="24.09.2021" docs="22356" kind="P" complect="mono" /><u5 date="17.09.2021" time="20.11" sysdate="17.09.2021" docs="22348" kind="P" complect="mono" /><u6 date="10.09.2021" time="20.06" sysdate="10.09.2021" docs="22335" kind="P" complect="mono" /><u7 date="03.09.2021" time="20.11" sysdate="03.09.2021" docs="22324" kind="P" complect="mono" /><u8 date="27.08.2021" time="20.16" sysdate="27.08.2021" docs="22314" kind="P" complect="mono" /><u9 date="20.08.2021" time="20.09" sysdate="20.08.2021" docs="22309" kind="P" complect="mono" /><u10 date="13.08.2021" time="20.19" sysdate="13.08.2021" docs="22296" kind="P" complect="mono" />
+			</updates>
+		</QSBO>
+		<KRBO nDistr="73" nComp="1" directory="KRBO" name="Корреспонденция счетов (бюджетные организации)" nCat="3361" nTexts="3361" n3="3361" n4="3361" n5="3361" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="20.10" sysdate="15.10.2021" docs="3361" kind="P" complect="mono" /><u2 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="3361" kind="P" complect="mono" /><u3 date="01.10.2021" time="20.13" sysdate="01.10.2021" docs="3361" kind="P" complect="mono" /><u4 date="24.09.2021" time="20.15" sysdate="24.09.2021" docs="3361" kind="P" complect="mono" /><u5 date="17.09.2021" time="20.12" sysdate="17.09.2021" docs="3361" kind="P" complect="mono" /><u6 date="10.09.2021" time="20.07" sysdate="10.09.2021" docs="3361" kind="P" complect="mono" /><u7 date="03.09.2021" time="20.11" sysdate="03.09.2021" docs="3361" kind="P" complect="mono" /><u8 date="27.08.2021" time="20.17" sysdate="27.08.2021" docs="3361" kind="P" complect="mono" /><u9 date="20.08.2021" time="20.10" sysdate="20.08.2021" docs="3361" kind="P" complect="mono" /><u10 date="13.08.2021" time="20.20" sysdate="13.08.2021" docs="3361" kind="P" complect="mono" />
+			</updates>
+		</KRBO>
+		<PKBO nDistr="73" nComp="1" directory="PKBO" name="Пресса и книги (бюджетные организации)" nCat="51951" nTexts="51951" n3="51951" n4="51951" n5="51951" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.08" sysdate="19.10.2021" docs="51951" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.05" sysdate="18.10.2021" docs="51922" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.06" sysdate="15.10.2021" docs="51916" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.00" sysdate="14.10.2021" docs="51876" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.01" sysdate="13.10.2021" docs="51867" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.55" sysdate="12.10.2021" docs="51855" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.55" sysdate="11.10.2021" docs="51845" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.02" sysdate="08.10.2021" docs="51826" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.56" sysdate="07.10.2021" docs="51797" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.01" sysdate="06.10.2021" docs="51764" kind="P" complect="mono" />
+			</updates>
+		</PKBO>
+		<PDR nDistr="73" nComp="1" directory="PDR" name="Путеводитель по договорной работе" nCat="58" nTexts="58" n3="58" n4="58" n5="58" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="58" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="58" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="58" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="58" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="58" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="58" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="58" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="58" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.04" sysdate="07.10.2021" docs="58" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="58" kind="P" complect="mono" />
+			</updates>
+		</PDR>
+		<PSP nDistr="73" nComp="1" directory="PSP" name="Путеводитель по судебной практике (ГК РФ)" nCat="43" nTexts="43" n3="43" n4="43" n5="43" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.13" sysdate="19.10.2021" docs="43" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.09" sysdate="18.10.2021" docs="43" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.10" sysdate="15.10.2021" docs="43" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.04" sysdate="14.10.2021" docs="43" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.04" sysdate="13.10.2021" docs="43" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.58" sysdate="12.10.2021" docs="43" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.59" sysdate="11.10.2021" docs="43" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.07" sysdate="08.10.2021" docs="43" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.03" sysdate="07.10.2021" docs="43" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.06" sysdate="06.10.2021" docs="43" kind="P" complect="mono" />
+			</updates>
+		</PSP>
+		<PKP nDistr="73" nComp="1" directory="PKP" name="Путеводитель по корпоративным процедурам" nCat="72" nTexts="72" n3="72" n4="72" n5="72" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="72" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="72" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="72" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="72" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="72" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="72" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.00" sysdate="11.10.2021" docs="72" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="72" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.04" sysdate="07.10.2021" docs="72" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="72" kind="P" complect="mono" />
+			</updates>
+		</PKP>
+		<PKS nDistr="73" nComp="1" directory="PKS" name="Путеводитель по корпоративным спорам" nCat="72" nTexts="72" n3="72" n4="72" n5="72" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="72" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.10" sysdate="18.10.2021" docs="72" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.10" sysdate="15.10.2021" docs="72" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="72" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="72" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.58" sysdate="12.10.2021" docs="72" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.00" sysdate="11.10.2021" docs="72" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="72" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.04" sysdate="07.10.2021" docs="72" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="72" kind="P" complect="mono" />
+			</updates>
+		</PKS>
+		<PTS nDistr="73" nComp="1" directory="PTS" name="Путеводитель по трудовым спорам" nCat="22" nTexts="22" n3="22" n4="22" n5="22" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.15" sysdate="19.10.2021" docs="22" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="22" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="22" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="22" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.06" sysdate="13.10.2021" docs="22" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="22" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="22" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.09" sysdate="08.10.2021" docs="22" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="22" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="22" kind="P" complect="mono" />
+			</updates>
+		</PTS>
+		<PGU nDistr="73" nComp="1" directory="PGU" name="Путеводитель по госуслугам для юридических лиц" nCat="32" nTexts="32" n3="32" n4="32" n5="32" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="32" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="32" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="32" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="32" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="32" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="32" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="32" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="32" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="32" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="32" kind="P" complect="mono" />
+			</updates>
+		</PGU>
+		<PKG nDistr="73" nComp="1" directory="PKG" name="Путеводитель по контрактной системе в сфере закупок" nCat="18" nTexts="18" n3="18" n4="18" n5="18" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="18" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="18" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="18" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="18" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="18" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="18" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="18" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.09" sysdate="08.10.2021" docs="18" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="18" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="18" kind="P" complect="mono" />
+			</updates>
+		</PKG>
+		<PSG nDistr="73" nComp="1" directory="PSG" name="Путеводитель по спорам в сфере закупок" nCat="146" nTexts="146" n3="146" n4="146" n5="146" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="146" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.10" sysdate="18.10.2021" docs="146" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.10" sysdate="15.10.2021" docs="146" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="146" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="146" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.58" sysdate="12.10.2021" docs="146" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.00" sysdate="11.10.2021" docs="146" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="146" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.04" sysdate="07.10.2021" docs="146" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="146" kind="P" complect="mono" />
+			</updates>
+		</PSG>
+		<PISH nDistr="73" nComp="5" directory="PISH" name="Проверки и штрафы" nCat="262" nTexts="262" n3="262" n4="262" n5="262" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="262" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.10" sysdate="18.10.2021" docs="262" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.10" sysdate="15.10.2021" docs="262" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="262" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="262" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.58" sysdate="12.10.2021" docs="262" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.00" sysdate="11.10.2021" docs="262" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="262" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.04" sysdate="07.10.2021" docs="262" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="262" kind="P" complect="mono" />
+			</updates>
+		</PISH>
+		<ORNN nDistr="73" nComp="1" directory="ORNN" name="Ответственность за нарушение часто применяемых норм" nCat="314" nTexts="314" n3="314" n4="314" n5="314" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="314" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="314" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="314" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="314" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.06" sysdate="13.10.2021" docs="314" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="314" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="314" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.09" sysdate="08.10.2021" docs="314" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="314" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="314" kind="P" complect="mono" />
+			</updates>
+		</ORNN>
+		<IVRD nDistr="73" nComp="1" directory="IVRD" name="Изменения в регулировании договоров" nCat="144" nTexts="144" n3="144" n4="144" n5="144" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="144" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="144" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="144" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="144" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="144" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="144" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="144" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.09" sysdate="08.10.2021" docs="144" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="144" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="144" kind="P" complect="mono" />
+			</updates>
+		</IVRD>
+		<IVKP nDistr="73" nComp="7" directory="IVKP" name="Изменения в регулировании корпоративных процедур" nCat="52" nTexts="52" n3="52" n4="52" n5="52" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.15" sysdate="19.10.2021" docs="52" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="52" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="52" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="52" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.06" sysdate="13.10.2021" docs="52" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="52" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="52" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.09" sysdate="08.10.2021" docs="52" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="52" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="52" kind="P" complect="mono" />
+			</updates>
+		</IVKP>
+		<IVSR nDistr="73" nComp="6" directory="IVSR" name="Изменения в судебно-претензионной работе" nCat="52" nTexts="52" n3="52" n4="52" n5="52" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.15" sysdate="19.10.2021" docs="52" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="52" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="52" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="52" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.06" sysdate="13.10.2021" docs="52" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="52" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="52" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.09" sysdate="08.10.2021" docs="52" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="52" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="52" kind="P" complect="mono" />
+			</updates>
+		</IVSR>
+		<IVGZ nDistr="73" nComp="8" directory="IVGZ" name="Изменения в регулировании госзакупок" nCat="44" nTexts="44" n3="44" n4="44" n5="44" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.15" sysdate="19.10.2021" docs="44" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="44" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="44" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="44" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.06" sysdate="13.10.2021" docs="44" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="44" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="44" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.09" sysdate="08.10.2021" docs="44" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="44" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="44" kind="P" complect="mono" />
+			</updates>
+		</IVGZ>
+		<IVPV nDistr="73" nComp="5" directory="IVPV" name="Изменения в проверках органами власти" nCat="86" nTexts="86" n3="86" n4="86" n5="86" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="86" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="86" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="86" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="86" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.06" sysdate="13.10.2021" docs="86" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="86" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="86" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.09" sysdate="08.10.2021" docs="86" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="86" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="86" kind="P" complect="mono" />
+			</updates>
+		</IVPV>
+		<CMB nDistr="73" nComp="1" directory="CMB" name="Постатейные комментарии и книги" nCat="4493" nTexts="4493" n3="4493" n4="4493" n5="4493" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="13.10.2021" time="19.54" sysdate="13.10.2021" docs="4493" kind="P" complect="mono" /><u2 date="06.10.2021" time="19.55" sysdate="06.10.2021" docs="4492" kind="P" complect="mono" /><u3 date="29.09.2021" time="19.55" sysdate="29.09.2021" docs="4491" kind="P" complect="mono" /><u4 date="22.09.2021" time="19.53" sysdate="22.09.2021" docs="4490" kind="P" complect="mono" /><u5 date="15.09.2021" time="19.49" sysdate="15.09.2021" docs="4489" kind="P" complect="mono" /><u6 date="08.09.2021" time="19.50" sysdate="08.09.2021" docs="4488" kind="P" complect="mono" /><u7 date="01.09.2021" time="20.02" sysdate="01.09.2021" docs="4487" kind="P" complect="mono" /><u8 date="26.08.2021" time="11.10" sysdate="26.08.2021" docs="4486" kind="P" complect="mono" /><u9 date="18.08.2021" time="19.55" sysdate="18.08.2021" docs="4485" kind="P" complect="mono" /><u10 date="11.08.2021" time="19.48" sysdate="11.08.2021" docs="4484" kind="P" complect="mono" />
+			</updates>
+		</CMB>
+		<CJI nDistr="73" nComp="1" directory="CJI" name="Юридическая пресса" nCat="137341" nTexts="137341" n3="137341" n4="137341" n5="137341" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.01" sysdate="19.10.2021" docs="137341" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.54" sysdate="18.10.2021" docs="137310" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.00" sysdate="15.10.2021" docs="137199" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.54" sysdate="14.10.2021" docs="137067" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.54" sysdate="13.10.2021" docs="137034" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.48" sysdate="12.10.2021" docs="137000" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.51" sysdate="11.10.2021" docs="136964" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.56" sysdate="08.10.2021" docs="136947" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.52" sysdate="07.10.2021" docs="136927" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.56" sysdate="06.10.2021" docs="136905" kind="P" complect="mono" />
+			</updates>
+		</CJI>
+		<PAP nDistr="73" nComp="1" directory="PAP" name="Деловые бумаги" nCat="98768" nTexts="98768" n3="98768" n4="98768" n5="98768" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.02" sysdate="19.10.2021" docs="98768" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.55" sysdate="18.10.2021" docs="98736" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.01" sysdate="15.10.2021" docs="98735" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.56" sysdate="14.10.2021" docs="98735" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.55" sysdate="13.10.2021" docs="98733" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.48" sysdate="12.10.2021" docs="98688" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.52" sysdate="11.10.2021" docs="98687" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.58" sysdate="08.10.2021" docs="98683" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.52" sysdate="07.10.2021" docs="98680" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.56" sysdate="06.10.2021" docs="98674" kind="P" complect="mono" />
+			</updates>
+		</PAP>
+		<DOF nDistr="73" nComp="1" directory="DOF" name="Дополнительные формы" nCat="17129" nTexts="17129" n3="17129" n4="17129" n5="17129" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.02" sysdate="19.10.2021" docs="17129" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.58" sysdate="18.10.2021" docs="17128" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.03" sysdate="15.10.2021" docs="17127" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.58" sysdate="14.10.2021" docs="17127" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.57" sysdate="13.10.2021" docs="17125" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.49" sysdate="12.10.2021" docs="17123" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.53" sysdate="11.10.2021" docs="17093" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.59" sysdate="08.10.2021" docs="17090" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.53" sysdate="07.10.2021" docs="17087" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.58" sysdate="06.10.2021" docs="17081" kind="P" complect="mono" />
+			</updates>
+		</DOF>
+		<FKRNK nDistr="73" nComp="3" directory="FKRNK" name="Формы с комментариями о рисках по налогам и кадрам" nCat="185" nTexts="185" n3="185" n4="185" n5="185" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.12" sysdate="19.10.2021" docs="185" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.07" sysdate="18.10.2021" docs="185" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.09" sysdate="15.10.2021" docs="185" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.03" sysdate="14.10.2021" docs="185" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.04" sysdate="13.10.2021" docs="185" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.57" sysdate="12.10.2021" docs="184" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.59" sysdate="11.10.2021" docs="184" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.06" sysdate="08.10.2021" docs="184" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.02" sysdate="07.10.2021" docs="184" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.05" sysdate="06.10.2021" docs="184" kind="P" complect="mono" />
+			</updates>
+		</FKRNK>
+		<FKRDR nDistr="73" nComp="1" directory="FKRDR" name="Формы с комментариями о рисках для договорной работы" nCat="85" nTexts="85" n3="85" n4="85" n5="85" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="85" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="85" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="85" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="85" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="85" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="85" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="85" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.09" sysdate="08.10.2021" docs="85" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.05" sysdate="07.10.2021" docs="85" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="85" kind="P" complect="mono" />
+			</updates>
+		</FKRDR>
+		<FKRKR nDistr="73" nComp="2" directory="FKRKR" name="Формы с комментариями о рисках для корпоративной работы" nCat="74" nTexts="74" n3="74" n4="74" n5="74" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.14" sysdate="19.10.2021" docs="74" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.11" sysdate="18.10.2021" docs="74" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.11" sysdate="15.10.2021" docs="74" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.05" sysdate="14.10.2021" docs="74" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.05" sysdate="13.10.2021" docs="74" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.59" sysdate="12.10.2021" docs="74" kind="P" complect="mono" /><u7 date="11.10.2021" time="20.01" sysdate="11.10.2021" docs="74" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.08" sysdate="08.10.2021" docs="74" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.04" sysdate="07.10.2021" docs="74" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.07" sysdate="06.10.2021" docs="74" kind="P" complect="mono" />
+			</updates>
+		</FKRKR>
+		<STR nDistr="73" nComp="1" directory="STR" name="Строительство" nCat="27603" nTexts="27603" n3="27603" n4="27603" n5="27603" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="19.38" sysdate="19.10.2021" docs="27603" kind="P" complect="mono" /><u2 date="12.10.2021" time="19.37" sysdate="12.10.2021" docs="27584" kind="P" complect="mono" /><u3 date="06.10.2021" time="19.39" sysdate="06.10.2021" docs="27557" kind="P" complect="mono" /><u4 date="28.09.2021" time="19.37" sysdate="28.09.2021" docs="27534" kind="P" complect="mono" /><u5 date="21.09.2021" time="19.37" sysdate="21.09.2021" docs="27512" kind="P" complect="mono" /><u6 date="14.09.2021" time="19.37" sysdate="14.09.2021" docs="27493" kind="P" complect="mono" /><u7 date="07.09.2021" time="19.37" sysdate="07.09.2021" docs="27460" kind="P" complect="mono" /><u8 date="31.08.2021" time="19.37" sysdate="31.08.2021" docs="27409" kind="P" complect="mono" /><u9 date="24.08.2021" time="19.37" sysdate="24.08.2021" docs="27386" kind="P" complect="mono" /><u10 date="17.08.2021" time="19.37" sysdate="17.08.2021" docs="27363" kind="P" complect="mono" />
+			</updates>
+		</STR>
+		<OTN nDistr="73" nComp="1" directory="OTN" name="Отраслевые технические нормы" nCat="30877" nTexts="30877" n3="30877" n4="30877" n5="30877" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="14.10.2021" time="19.38" sysdate="14.10.2021" docs="30877" kind="P" complect="mono" /><u2 date="07.10.2021" time="19.38" sysdate="07.10.2021" docs="30833" kind="P" complect="mono" /><u3 date="30.09.2021" time="19.38" sysdate="30.09.2021" docs="30791" kind="P" complect="mono" /><u4 date="23.09.2021" time="19.37" sysdate="23.09.2021" docs="30748" kind="P" complect="mono" /><u5 date="16.09.2021" time="19.37" sysdate="16.09.2021" docs="30699" kind="P" complect="mono" /><u6 date="09.09.2021" time="19.40" sysdate="09.09.2021" docs="30649" kind="P" complect="mono" /><u7 date="02.09.2021" time="19.37" sysdate="02.09.2021" docs="30599" kind="P" complect="mono" /><u8 date="26.08.2021" time="19.37" sysdate="26.08.2021" docs="30563" kind="P" complect="mono" /><u9 date="19.08.2021" time="19.39" sysdate="19.08.2021" docs="30537" kind="P" complect="mono" /><u10 date="12.08.2021" time="19.36" sysdate="12.08.2021" docs="30479" kind="P" complect="mono" />
+			</updates>
+		</OTN>
+		<PRJ nDistr="73" nComp="1" directory="PRJ" name="Законопроекты" nCat="208933" nTexts="208933" n3="208933" n4="208933" n5="208933" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.05" sysdate="19.10.2021" docs="208933" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.02" sysdate="18.10.2021" docs="208890" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.04" sysdate="15.10.2021" docs="208868" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.59" sysdate="14.10.2021" docs="208806" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.58" sysdate="13.10.2021" docs="208766" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.53" sysdate="12.10.2021" docs="208734" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.54" sysdate="11.10.2021" docs="208723" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.00" sysdate="08.10.2021" docs="208701" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.54" sysdate="07.10.2021" docs="208688" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.00" sysdate="06.10.2021" docs="208665" kind="P" complect="mono" />
+			</updates>
+		</PRJ>
+		<PNPA nDistr="73" nComp="1" directory="PNPA" name="Проекты нормативных правовых актов" nCat="76533" nTexts="76533" n3="76533" n4="76533" n5="76533" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="19.54" sysdate="19.10.2021" docs="76533" kind="P" complect="mono" /><u2 date="18.10.2021" time="19.49" sysdate="18.10.2021" docs="76456" kind="P" complect="mono" /><u3 date="15.10.2021" time="19.54" sysdate="15.10.2021" docs="76392" kind="P" complect="mono" /><u4 date="14.10.2021" time="19.49" sysdate="14.10.2021" docs="76331" kind="P" complect="mono" /><u5 date="13.10.2021" time="19.50" sysdate="13.10.2021" docs="76269" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.44" sysdate="12.10.2021" docs="76214" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.47" sysdate="11.10.2021" docs="76166" kind="P" complect="mono" /><u8 date="08.10.2021" time="19.50" sysdate="08.10.2021" docs="76137" kind="P" complect="mono" /><u9 date="07.10.2021" time="19.44" sysdate="07.10.2021" docs="76069" kind="P" complect="mono" /><u10 date="06.10.2021" time="19.52" sysdate="06.10.2021" docs="76016" kind="P" complect="mono" />
+			</updates>
+		</PNPA>
+		<INT nDistr="73" nComp="1" directory="INT" name="Международное право" nCat="33255" nTexts="33255" n3="33255" n4="33255" n5="33255" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="15.10.2021" time="19.52" sysdate="15.10.2021" docs="33255" kind="P" complect="mono" /><u2 date="08.10.2021" time="19.48" sysdate="08.10.2021" docs="33233" kind="P" complect="mono" /><u3 date="01.10.2021" time="19.53" sysdate="01.10.2021" docs="33218" kind="P" complect="mono" /><u4 date="24.09.2021" time="19.48" sysdate="24.09.2021" docs="33201" kind="P" complect="mono" /><u5 date="17.09.2021" time="19.53" sysdate="17.09.2021" docs="33186" kind="P" complect="mono" /><u6 date="10.09.2021" time="19.50" sysdate="10.09.2021" docs="33171" kind="P" complect="mono" /><u7 date="03.09.2021" time="19.54" sysdate="03.09.2021" docs="33152" kind="P" complect="mono" /><u8 date="27.08.2021" time="19.50" sysdate="27.08.2021" docs="33132" kind="P" complect="mono" /><u9 date="20.08.2021" time="19.51" sysdate="20.08.2021" docs="33111" kind="P" complect="mono" /><u10 date="13.08.2021" time="19.48" sysdate="13.08.2021" docs="33075" kind="P" complect="mono" />
+			</updates>
+		</INT>
+		<MED nDistr="73" nComp="1" directory="MED" name="Медицина и фармацевтика" nCat="89421" nTexts="89421" n3="89421" n4="89421" n5="89421" n6="0" compliance="=HOST">
+			<updates>
+				<u1 date="19.10.2021" time="20.12" sysdate="19.10.2021" docs="89421" kind="P" complect="mono" /><u2 date="18.10.2021" time="20.07" sysdate="18.10.2021" docs="89419" kind="P" complect="mono" /><u3 date="15.10.2021" time="20.09" sysdate="15.10.2021" docs="89415" kind="P" complect="mono" /><u4 date="14.10.2021" time="20.03" sysdate="14.10.2021" docs="89414" kind="P" complect="mono" /><u5 date="13.10.2021" time="20.04" sysdate="13.10.2021" docs="89413" kind="P" complect="mono" /><u6 date="12.10.2021" time="19.57" sysdate="12.10.2021" docs="89412" kind="P" complect="mono" /><u7 date="11.10.2021" time="19.58" sysdate="11.10.2021" docs="89411" kind="P" complect="mono" /><u8 date="08.10.2021" time="20.05" sysdate="08.10.2021" docs="89410" kind="P" complect="mono" /><u9 date="07.10.2021" time="20.02" sysdate="07.10.2021" docs="89409" kind="P" complect="mono" /><u10 date="06.10.2021" time="20.05" sysdate="06.10.2021" docs="89408" kind="P" complect="mono" />
+			</updates>
+		</MED>
+	</ib>
+</user_info>
